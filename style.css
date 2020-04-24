@@ -1,0 +1,36 @@
+.body{
+   padding-top: 60px;
+padding-bottom: 40px;
+ text-align: center;
+color: #f8f8f8; background: url("img/intro-bg_1.jpg") no-repeat center center; 
+background-size: cover;
+}
+.content{
+    
+     position: relative;
+padding-top: 3%;
+ padding-bottom: 3%;
+ margin-top: 3.5%;
+margin-bottom: 3.5%;
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 500px;
+ border-radius: 5%;
+    
+}
+.shopnow_button{
+   background: red; 
+   padding: 15px 15px 15px 15px;
+  border-radius: 10%; 
+}
+a{
+    text-decoration: none;
+}
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+color:#9d9d9d;bottom: 0;
+width: 100%;
+}
+
+
+
